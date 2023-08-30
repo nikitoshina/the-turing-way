@@ -8,7 +8,7 @@
 
 With the addition of Dr. Malvika Sharan in late 2019, The Turing Way expanded into five guides. As a co-founder of Open Life Science (which uses many Mozilla OL frameworks), Malvika helped to incubate what are now key partnerships for The Turing Way. With other key collaborators, she facilitated the creation of 4 more guides (on Project Design, Collaboration, Community, and Research Ethics), alongside a Community Handbook that captured meta-practices by and for other open source communities. The scope and project expanded massively during the 2020-2022 period, as well as transitioned online due to the COVID-19 pandemic.
 
-# Maintenance & Sustainability (2022-Ongoing)
+## Maintenance & Sustainability (2022-Ongoing)
 
 In 2022, Malvika and Kirstie became co-leads of *The Turing Way*, and welcomed Anne Lee Steele as the new community manager. The Turing Way team now counts more than 30 members as "Core Team". The Turing Way has also developed into a kind of ["community of communities"](https://ben.balter.com/2019/07/18/a-community-of-communities-oscon-2019/), as people in the community work on projects related to localisation and translation, reviewing & editing, training and mentorship, accessibility, and infrastructure. Initial governance work began in 2022, with hybrid hubs hosting events across time zones.
 
