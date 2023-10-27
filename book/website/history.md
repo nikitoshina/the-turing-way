@@ -30,7 +30,10 @@ The Book Dash Planning Committe was established in early 2022 to plan the commun
 ## Maintenance & Sustainability (2022-Ongoing)
 
 In 2022, Malvika and Kirstie became co-leads of *The Turing Way*, and welcomed Anne Lee Steele as the new community manager.
-As the number of contributors to the project has grown to over 400 people, *The Turing Way* has also developed into a kind of ["community of communities"](https://ben.balter.com/2019/07/18/a-community-of-communities-oscon-2019/) with many ongoing projects developing alongside the expansion of the guides, demonstrating the need for internal systems that enable the sustainability and maintenance of the project more broadly.
+
+As the number of contributors to the project has grown to over 400 people, *The Turing Way* has also developed into a kind of ["community of communities"](https://ben.balter.com/2019/07/18/a-community-of-communities-oscon-2019/).
+Many ongoing projects have been developing alongside the expansion of the guides, demonstrating the need for internal systems that enable the sustainability and maintenance of the project more broadly.
+
 Initial governance work began in 2022, with hybrid hubs hosting events across multiple time zones and working groups developed to formalise localisation and translation, reviewing & editing, training and mentorship, accessibility, and infrastructure within the project.
 
 2023 saw the incubation of *The Turing Way* Practioner's Hub that aims to bring *The Turing Way* into the hands and ways of working of industry leaders, as well as a transition into a separate Github organisation for *The Turing Way* project.
