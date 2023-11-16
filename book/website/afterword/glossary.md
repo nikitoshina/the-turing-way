@@ -130,13 +130,17 @@ CRediT Taxonomy
 ```{glossary}
 
 Data repository
-  See repository.
+    A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
 Differential privacy
   A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
 
 DMP
-  Data management plan.
+  Data Management Plan.
+
+DNS
+  Domain Name System.
+  The system which translates domain names, for example the-turing-way.netlify.app, to the IP addressess used by computer networks.
 
 Docker Container
   An active computational environment executed from a Docker image.
@@ -233,6 +237,11 @@ Helm
 
 Honorary authorship
  This is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria.
+
+Hosting
+  A service which makes data, such as a website, available on the internet.
+  It is possible to self-host, using your own infrastructure.
+  However, it is common to use a third-party, often commerical, hosting provider.
 
 Human Readable
   A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
@@ -369,7 +378,7 @@ Open Educational Resources
   Making educational resources publicly available to be re-used and modified.
 
 Open Source Hardware
-  Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
+  Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
 
 Open License
   A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
@@ -477,7 +486,7 @@ repo2docker
   A tool to build Docker images from code repositories.
 
 Repository
-  *Same as Data or Code Reprository*. A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’.
+  A central location where resources (data, software, publications or anything else) are stored and accessed. This keyword is often shortened to ‘repo’. See Data Repository if this place is long-lived.
 
 Reproducible
   A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
