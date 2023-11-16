@@ -16,7 +16,7 @@ parts:
       - file: foreword/foreword
         sections: 
           - title: History
-          file: foreword/history
+            file: foreword/history
       # ===== Guide for Reproducible Research ========================================
       - file: reproducible-research/reproducible-research
         sections:
