@@ -35,7 +35,7 @@ The Book Dash Planning Committe was established in early 2022 to plan the commun
 
 In 2022, Malvika and Kirstie became co-leads of *The Turing Way*, and welcomed Anne Lee Steele as the new community manager.
 
-As the number of contributors to the project has grown to over 400 people, *The Turing Way* has also developed into a kind of ["community of communities"](https://ben.balter.com/2019/07/18/a-community-of-communities-oscon-2019/).
+As the number of contributors to the project has grown to over 400 people, *The Turing Way* has also developed into a ["community of communities"](https://ben.balter.com/2019/07/18/a-community-of-communities-oscon-2019/).
 Many ongoing projects have been developing alongside the expansion of the guides, demonstrating the need for internal systems that enable the sustainability and maintenance of the project more broadly.
 Many projects have grown that have adopted and used practices from *The Turing Way*.
 The core team of the project, which brought together Turing staff and volunteer leaders of the project was brought in in 2022.
