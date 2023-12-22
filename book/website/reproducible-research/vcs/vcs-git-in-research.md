@@ -49,7 +49,7 @@ See the {ref}`section on Data Version Control<rr-vcs-data>` for more detailed ex
 ## Tools
 
 We encourage you to use a Git platform that is provided as an open infrastructure.
-In many university, you will have access to a GitLab platform (which works very similarly to GitHub).
+In many universities, you will have access to a GitLab platform (which works very similarly to GitHub).
 Alternatively, you may want to install your own instance of one of the more lightweight open source Git platform (gogs, GitLea, GIN).
 
 If you have many or large files, you will need to use the Git submodules and git-annex technologies. 
